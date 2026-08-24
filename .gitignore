@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+*.csv
+
+CSDTools/patchs/
+mol_data/
+feature_cache/
+save forest/
+
+*.pkl
+*.txt
+*.pdf
+*.json
+.claude/
+
+catboost_info/
